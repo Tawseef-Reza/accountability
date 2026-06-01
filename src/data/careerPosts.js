@@ -1,4 +1,4 @@
-const posts = [
+const careerPosts = [
   {
     id: 1,
     title: 'Sample Post',
@@ -9,4 +9,4 @@ const posts = [
   }
 ]
 
-export default posts
+export default careerPosts

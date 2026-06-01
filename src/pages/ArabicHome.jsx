@@ -1,10 +1,14 @@
 import BlogCard from '../components/BlogCard'
-import posts from '../data/posts'
+import arabicPosts from '../data/arabicPosts'
+import { Link } from 'react-router-dom'
 //import headerImage from '../assets/header.webp'
 
-function HomePage() {
+function ArabicHome() {
   return (
     <div className="homepage">
+        <Link to="/" className="back-button">
+        Back to Selection
+      </Link>
         <header
             className="hero"
         >
@@ -20,8 +24,12 @@ function HomePage() {
 
         <main className="content">
             <div className="posts-grid">
-            {posts.map((post) => (
-                <BlogCard key={post.id} post={post} />
+            {arabicPosts.map((post) => (
+            <BlogCard
+                key={post.id}
+                post={post}
+                basePath="/arabic"
+            />
             ))}
             </div>
         </main>
@@ -29,4 +37,4 @@ function HomePage() {
   )
 }
 
-export default HomePage
+export default ArabicHome
