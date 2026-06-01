@@ -6,7 +6,7 @@ const posts = [
     content:
       'Sample Content',
     date: 'June 1, 2026',
-  },
+  }
 ]
 
 export default posts
