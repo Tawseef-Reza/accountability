@@ -345,3 +345,11 @@ body {
     flex-direction: column;
   }
 }
+
+p {
+  margin-bottom: 10px;
+}
+ol {
+  padding-left: 25px;
+  margin-bottom: 10px;
+}

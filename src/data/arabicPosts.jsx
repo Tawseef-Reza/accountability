@@ -1,12 +1,12 @@
-const careerPosts = [
+const arabicPosts = [
   {
     id: 1,
     title: 'Sample Post',
     description: 'Sample Description',
     content:
-      'Sample Content',
+      <h1> this is a sample header </h1>,
     date: 'June 1, 2026',
   }
 ]
 
-export default careerPosts
+export default arabicPosts
