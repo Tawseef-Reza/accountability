@@ -42,7 +42,33 @@ const careerPosts = [
 			</div>
 		,
 		date: 'June 3, 2026',
+	},
+	{
+		id: 2,
+		title: 'Cyber and other progress',
+		description: 'General Progress',
+		content:
+			<div>
+				<h2>Networking</h2>
+				<p>
+					I talked with Shahin some time back, here are some tips he gave me:
+					<ol>
+						<li>Getting the CISSP certificate, as it is a cert for people with 5 year exp and getting that cert can show that I'm realy qualified. Can become Security Analyst with it.</li>
+						<li>Considering biomedical engineering and quantum computing and cybersecurity (good fields during AI rise)</li>
+						<li>Working on a home lab for cybersecurity and making posts to use it as experience on resume. The idea of posting stuff you work on in general.</li>
+						<li>Taking machine learning courses in school.</li>
+					</ol>
+				</p>
+				<h2>Cyber</h2>
+				<p>
+					Finished module 2 and 3 between today and yesterday of the <Link to="https://www.coursera.org/professional-certificates/google-cybersecurity">
+					Google Cybersecurity Certificate</Link>. Planning to do a module a day to finish it within a month.
+				</p>
+			</div>
+		,
+		date: 'June 12, 2026',
 	}
+	
 ]
 
 export default careerPosts

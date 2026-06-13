@@ -4,7 +4,7 @@ const arabicPosts = [
     title: 'Sample Post',
     description: 'Sample Description',
     content:
-      <h1> this is a sample header </h1>,
+      'Sample Content',
     date: 'June 1, 2026',
   }
 ]
