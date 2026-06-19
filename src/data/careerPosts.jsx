@@ -69,7 +69,7 @@ const careerPosts = [
 		date: 'June 12, 2026',
 	},
 	{
-		id: 2,
+		id: 3,
 		title: 'Cyber and other progress',
 		description: 'General Progress',
 		content:
@@ -84,7 +84,7 @@ const careerPosts = [
 		date: 'June 14, 2026',
 	},
 	{
-		id: 2,
+		id: 4,
 		title: 'Cyber',
 		description: 'General Progress',
 		content:
