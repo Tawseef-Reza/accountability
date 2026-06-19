@@ -67,7 +67,38 @@ const careerPosts = [
 			</div>
 		,
 		date: 'June 12, 2026',
-	}
+	},
+	{
+		id: 2,
+		title: 'Cyber and other progress',
+		description: 'General Progress',
+		content:
+			<div>
+				<h2>Cyber</h2>
+				<p>
+					Finished module 4 of course 2, so I have 7 more courses left. Planning to actually pay for the course soon since my trial will expire.
+				</p>
+				
+			</div>
+		,
+		date: 'June 14, 2026',
+	},
+	{
+		id: 2,
+		title: 'Cyber',
+		description: 'General Progress',
+		content:
+			<div>
+				<h2>Cyber</h2>
+				<p>
+					Finished module 1 of course 3. Course 3 is about securing networks.
+				</p>
+				
+			</div>
+		,
+		date: 'June 19, 2026',
+	},
+	
 	
 ]
 
