@@ -98,6 +98,27 @@ const careerPosts = [
 		,
 		date: 'June 19, 2026',
 	},
+	{
+		id: 5,
+		title: 'Cyber',
+		description: 'General Progress',
+		content:
+			<div>
+				<h2>Cyber</h2>
+				<p>
+					Finished module 2 of course 3. Started to take notes now as I do the course because I want to be able to recall the information better.
+					The course is helpful for the CompTIA Security+ exam and the knowledge inside is more important than the actual certificate from Google.
+					A catch to this is that it now takes at least an hour to finish each module I believe. 
+				</p>
+				<p>
+					This module dealt with firewalls, VPNs, subnets, proxy servers, and network protocols.
+				</p>
+				
+			</div>
+		,
+		date: 'June 21, 2026',
+	},
+	
 	
 	
 ]
