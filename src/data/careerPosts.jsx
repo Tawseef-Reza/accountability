@@ -118,6 +118,24 @@ const careerPosts = [
 		,
 		date: 'June 21, 2026',
 	},
+	{
+		id: 6,
+		title: 'Cyber',
+		description: 'General Progress',
+		content:
+			<div>
+				<h2>Cyber</h2>
+				<p>
+					Finished module 3 of course 3. I technically finished on the morning of June 23. 
+				</p>
+				<p>
+					This module dealt with network security, intrusion tactics, and attack protection.
+				</p>
+				
+			</div>
+		,
+		date: 'June 22, 2026',
+	},
 	
 	
 	
