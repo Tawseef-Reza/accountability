@@ -136,7 +136,26 @@ const careerPosts = [
 		,
 		date: 'June 22, 2026',
 	},
-	
+	{
+		id: 7,
+		title: 'Cyber',
+		description: 'General Progress',
+		content:
+			<div>
+				<h2>Cyber</h2>
+				<p>
+					Finished module 4 of course 3. This is the end of course 3. Spent around 3 hours doing this module, this one had some 
+					activities so it took longer.
+				</p>
+				<p>
+					That means 26 modules left to do in 20 days. Doing the modules within this time means I don't have to pay 49 dollars again to finish 
+					the course and get the 30 percent discount for the CompTIA Security+ exam. So in shaa Allah I want to finish by July 15.
+				</p>
+				
+			</div>
+		,
+		date: 'June 25, 2026',
+	}
 	
 	
 ]
