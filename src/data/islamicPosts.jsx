@@ -51,7 +51,51 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'June 19, 2026',
+	},
+	{
+		id: 3,
+		title: 'Lesson 2 Part 1 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Learning for 45 minutes about love, habits, and how one remains or exits the fold of Islam',
+		content:
+			<div>
+				<h2>Lesson 2 Part 1 (finished)</h2>
+				<p>
+					Today was around 45 minutes of studying the lesson 2 part 1 video from Ustadh Abdul-Aziz, which I finished the last 23 minutes of. 
+					The last conditions of laa ilaaha illa Allah were explained, including love, submission, acceptance, and disbelieving in everything else 
+					besides Allah. Most of the time was spent on the action of love and regarding what takes someone out of Islam.
+				</p>
+				<h3>Love</h3>
+				<p> 
+					The Ustadh after covering this action, which was about loving Allah, the rasool ﷺ, the deen, and not hating it, brought up the words of 
+					Abdul Kareem al-Khudayr. The shaykh talked about how hating Allah, or something revealed in the deen, or some of it, is a nullifier of laa ilaaha
+					illa Allah. This is also related to hating something that shows Islam, like hating the beard, and includes those who command to goodness and 
+					forbid evil. It is very dangerous to hate anything that was mentioned.
+				</p>
+				<h3>Habits</h3>
+				<p>
+					The Ustadh explained how habits are formed by accustoming ourselves to something. If we find ourselves hating some of the deen, we 
+					should strive to change our heart and ourselves and think good of the deen and love the deen. Doing this will make it a habit and 
+					it will come from you naturally. The Ustadh also mentioned a hadith in support of this.
+				</p>
+				<h3>What does or does not take you out of the fold of Islam</h3>
+				
+				<ul>What does not:
+				<li>Leaving an obligation off out of laziness (exception being Salah)</li>
+				<li>Ruling by other than Allah (الكفر الأصغر)</li>
+				</ul>
+				<ul>What does:
+				<li>Making istihlal of something that is haram (ex: Saying that not fasting in Ramadan is halal). This also applies to the two bullet points I wrote
+					in what does not take you out of the fold of Islam.</li>
+				</ul>
+				<p>
+				And within this he mentioned to not be arrogant, since Allah hates arrogance, and to not go against the ulema and the salaf.
+				</p>
+
+			</div>
+		,
+    	date: 'June 25, 2026',
 	}
+
 ]
 
 export default islamicPosts
