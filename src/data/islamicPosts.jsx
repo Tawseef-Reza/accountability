@@ -94,6 +94,41 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'June 25, 2026',
+	},
+	{
+		id: 4,
+		title: 'Lesson 2 Part 2 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Learning for 30 minutes about types of love, meaning of عبد, and types of العبودية',
+		content:
+			<div>
+				<h2>Lesson 2 Part 2</h2>
+				<p>
+					I did around 30 minutes of studying the lesson 2 part 2 video from Ustadh Abdul-Aziz between June 26 and 27,
+					which I finished the first 20 minutes of.
+				</p>
+				<h3>Types of Love</h3>
+				<p> 
+					The Ustadh talked about natural love, love for the sake of Allah, and loving other than Allah (meaning the love of a creation to their creator, and 
+					dedicating that type of love to other than Allah). Loving Allah is an act of worship and an action of the heart. The love for the sake of 
+					Allah is obligatory also and involves having mercy between your muslims (like when dealing with them, not backbiting them, etc.).
+				</p>
+
+				<h3>Meaning of 3abd</h3>
+				<p>
+					In the shahaadah, the rasool ﷺ being called 3abd means he is the best worshipper, and is not worshipped since he worships.
+					He worships the one who has Uluhiyyah, Rububiyyah, and Asmaa' wa sifaat and has none of those things for himself.
+				</p>
+				<h3>Types of 3ubudiyyah</h3>
+				
+				<ol>
+				<li>3ubudiyyah of dominion/supremacy, which encompasses all creation and is general.</li>
+				<li>3ubudiyyah of obeying Allah, which encompasses eveyrone who worships Allah and is specific.</li>
+				<li>3ubudiyyah of the worship of the messengers, which is special and not challenged by anyone else and is very specific.</li>	
+				</ol>
+
+			</div>
+		,
+    	date: 'June 27, 2026',
 	}
 
 ]
