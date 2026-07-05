@@ -212,11 +212,11 @@ const careerPosts = [
 				<p>
 					Finished module 4 of course 4. Learnt about SQL.
 				</p>
-				<p>WIth 10 days left to finish the course I have to basically do two modules a day to stay on track.</p>
+				<p>With 10 days left to finish the course I have to basically do two modules a day to stay on track.</p>
 				
 			</div>
 		,
-		date: 'July 1, 2026',
+		date: 'July 5, 2026',
 	}
 	
 
