@@ -129,7 +129,35 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'June 27, 2026',
+	},
+	{
+		id: 5,
+		title: 'Lesson 2 Part 2 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Learning for 30 minutes about Tawhid and more facts',
+		content:
+			<div>
+				<h2>Lesson 2 Part 2</h2>
+				<p>
+					I did around 30 minutes of studying the lesson 2 part 2 video from Ustadh Abdul-Aziz between June 26 and 27,
+					which I finished the next 19 minutes of.
+				</p>
+				<h3>Tawhid</h3>
+				<p> 
+					The Ustadh emphasized tawhid, as the prophet ﷺ sent Muadh ibn Jabal and told him to focus on that. 
+					Tawhid should be the first and main thing you emphasize in your dawah, and the people of bid'ah who avoid Tawhid and try to 
+					make their own way imply that they know better than the prophet ﷺ because the prophet ﷺ spoke from divine revelation and not from 
+					his whims and desires.
+				</p>
+				<h3>Other</h3>
+
+				<p>I also got to learn about other things including the prophet's ﷺ children, wives, الإسراء والمعراج, and the matters that are different for him 
+					compared to other people (like qiyam al-layl being obligatory and being able to marry people off on his own). 
+				</p>
+			</div>
+		,
+    	date: 'July 12, 2026',
 	}
+	
 
 ]
 
