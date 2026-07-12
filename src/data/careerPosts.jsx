@@ -233,7 +233,24 @@ const careerPosts = [
 			</div>
 		,
 		date: 'July 9, 2026',
+	},
+	{
+		id: 13,
+		title: 'Cyber',
+		description: 'General Progress',
+		content:
+			<div>
+				<h2>Cyber</h2>
+				<p>
+					I did two modules of course 6, which makes 11 modules left to finish in three days.
+				</p>
+				
+			</div>
+		,
+		date: 'July 11, 2026',
 	}
+	
+	
 	
 
 	
