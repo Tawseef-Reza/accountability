@@ -247,7 +247,7 @@ const careerPosts = [
 				
 			</div>
 		,
-		date: 'July 11, 2026',
+		date: 'July 12, 2026',
 	}
 	
 	
