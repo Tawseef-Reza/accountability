@@ -156,7 +156,38 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 12, 2026',
+	},
+	{
+		id: 6,
+		title: 'Lesson 2 Part 2 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Finishing Lesson 2 and learning about Imaan',
+		content:
+			<div>
+				<h2>Lesson 2 Part 2</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: 43</li>
+					<li>Minutes gotten through: 26 (finished)</li>
+					<li>Topics covered (not comprehensive): Imaan and the misguidance of importing philosophies into the religion</li>
+				</ul>
+				<h3>Imaan</h3>
+				<p> 
+					Imaan is belief in the heart, actions of the limbs, and statement of the tongue, and increases with obedience and decreases
+					with disobedience. The Ustadh went into specifically the hadith about the 70 branches of Imaan. The mentioning of a highest and lowest
+					branch shows that Iman increases and decreases, and the three branches mentioned refer to statement of the tongue, actions, and belief.
+				</p>
+				<h3>The Misguidance of Philosophy</h3>
+
+				<p>Most of the time was spent listening to the Ustadh's words on philosophy, explaining how it is clear misguidance and bid'ah that 
+				has nothing to do with Islam. We use our brains to understand and receive the deen from the Quran and the Sunnah, but we don't use it 
+				to make our own interpretations based on logic and reasoning that contradict what is shown in the evidence. Otherwise, why have the Quran
+				and the Sunnah sent if you are meant to learn the deen through conclusions from your own philosophical arguments and the likes?
+				</p>
+			</div>
+		,
+    	date: 'July 13, 2026',
 	}
+	
 	
 
 ]
