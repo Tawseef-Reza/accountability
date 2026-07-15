@@ -264,6 +264,22 @@ const careerPosts = [
 			</div>
 		,
 		date: 'July 13, 2026',
+	},
+	{
+		id: 15,
+		title: 'Cyber',
+		description: 'Finished the Google Cybersecurity Certificate',
+		content:
+			<div>
+				<h2>Cyber</h2>
+				<p>
+					I finished course 7 and 8 which was in total 9 modules. This means I finished the certificate. I can try to get the badge for it in shaa
+					Allah, but the main thing is that I have the discount code for the CompTIA+ Sec Certification. I will have to start planning and studying for that now.
+				</p>
+				
+			</div>
+		,
+		date: 'July 14, 2026',
 	}
 
 	

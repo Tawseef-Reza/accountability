@@ -186,7 +186,94 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 13, 2026',
+	},
+	{
+		id: 7,
+		title: 'Lesson 3 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Lesson 3 Beginning',
+		content:
+			<div>
+				<h2>Lesson 3</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: 28</li>
+					<li>Minutes gotten through: 14 </li>
+					<li>Topics covered (not comprehensive): Imaan Increasing, Decreasing, and the First Pillar of Iman</li>
+				</ul>
+
+				<h3>Reasons for Imaan to Increase</h3>
+				The reasons are four:
+				<ul>
+					<li>Studying Tawheed, especially the names and attributes</li>
+					<li>Increasing in good deeds, like sitting in ilm gatherings, charity, etc.</li>
+					<li>Giving up sins (The Ustadh also mentioned how one sin leads to another, and that fisq is when you commit major sins
+						or don't repent from the minor ones and continue to do them)
+					</li>
+					<li>Reflecting upon the creation</li>
+				</ul>
+				<h3>First Pillar of Imaan: Believing in Allah</h3>
+				<p> 
+					This involves believing in Allah's existence, and the three categories of Tawheed. The Ustadh went on to bring doubts from people
+					who say that there is no creator (which back then people would not believe in no creator and would not need evidence for ar-Ruboobiyyah), and
+					show the different phenomena mentioned in the Quran and Sunnah to give people something to contemplate about and realize that Islam 
+					is the truth.
+				</p>
+			</div>
+		,
+    	date: 'July 14, 2026',
+	},
+	{
+		id: 8,
+		title: 'Lesson 3 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Lesson 3 Finished',
+		content:
+			<div>
+				<h2>Lesson 3</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: 1 hour 22 minutes</li>
+					<li>Minutes gotten through: 33 (finished) </li>
+					<li>Topics covered (not comprehensive): Rest of Pillars of Imaan</li>
+				</ul>
+
+				<h3>First Pillar of Imaan</h3>
+				<p>
+					The Ustadh continued with mentioning signs to contemplate about.
+				</p>
+				<h3>Pillars of Imaan</h3>
+				The rest of the pillars are as follows:
+				<ol start="2">
+					<li>Belief in Angels, including their different aspects, their names, duties, and what we know about them</li>
+					<li>Belief in Books, which is the uncreated speech of Allah, and includes 
+						<ul>
+							<li>al-Qur'an</li>
+							<li>al-Tawraah</li>
+							<li>al-Injeel</li>
+							<li>az-Zaboor (Prophet Dawood)</li>	
+							<li>The Suhuf of Ibrahim and Moosa</li>
+						</ul>
+					</li>
+					<li>Belief in the Messengers, who are worshippers without lordship, that were sent revelation and fulfilled their mission. Aadam 
+						is the first prophet and Nuh is the first messenger.
+					</li>
+					<li>Belief in everything that happens after death</li>
+					<li>Belief in Al Qadar, through
+						<ol>
+							<li>Knowledge (Allah knows everything including what was, what will be, what wasn't, and if it were, how it would turn out to be)</li>
+							<li>Writing (Everything till the Day of Judgement is written down by the Pen)</li>
+							<li>Will: People are allowed free will from Allah to be tested with, but his will is superior to theirs and nothing happens except that
+								Allah wills it.
+							</li>
+							<li>Creation (along with the servant's actions being created as well)</li>
+						</ol>
+					</li>
+				</ol>
+			</div>
+		,
+    	date: 'July 15, 2026',
 	}
+
+	
 	
 	
 
