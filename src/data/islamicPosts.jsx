@@ -271,7 +271,42 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 15, 2026',
+	},
+	{
+		id: 9,
+		title: 'Lesson 4 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'First half finished',
+		content:
+			<div>
+				<h2>Lesson 3</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: 59 minutes</li>
+					<li>Minutes gotten through: 26 </li>
+					<li>Topics covered (not comprehensive): Categories of Tawhid, and some of Major Shirk</li>
+				</ul>
+
+				<h3>Three Categories of Tawhid</h3>
+				<p>
+					The three categories of Tawhid are ar-Ruboobiyyah, al-Uluhiyyah, and Asmaa wa Sifaat. 
+					The first regards singling him out in his actions, the second regards singling him out with our actions (dedicating
+					all our worship to Allah), and the third involves believing in all the names and attributes, without distortion, denial,
+					describing them, or giving examples. 
+				</p>
+				<p>
+					It is important to know that Allah's names and attributes cannot be compared to the creation's, instead they befit him, like 
+					how you don't compare the hand of a door to the hand of a human.
+				</p>
+				<h3>Major Shirk</h3>
+				<p>
+					Major shirk was briefly talked about. Doing major shirk nullifies all your good deeds and dying upon it means you are forbidden
+					from paradise.
+				</p>
+			</div>
+		,
+    	date: 'July 16, 2026',
 	}
+
 
 	
 	
