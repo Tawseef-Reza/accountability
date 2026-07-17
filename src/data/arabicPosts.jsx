@@ -16,7 +16,8 @@ const arabicPosts = [
     description: 'Flashcard building',
     content:
       <div>
-        I worked on finishing the flashcards up to lesson 13 for 41 minutes.
+        I worked on finishing the flashcards up to lesson 13 for 41 minutes. Theres like 200 flashcards to work with now. Now I will study the 
+        flashcards and complete the exercises.
       </div>,
     date: 'July 17, 2026',
   }
