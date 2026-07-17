@@ -278,7 +278,7 @@ const islamicPosts = [
 		description: 'First half finished',
 		content:
 			<div>
-				<h2>Lesson 3</h2>
+				<h2>Lesson 4</h2>
 				<u>Quick List</u>
 				<ul>
 					<li>Minutes Spent: 59 minutes</li>
@@ -305,6 +305,53 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 16, 2026',
+	},
+	{
+		id: 10,
+		title: 'Lesson 4 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Finished second half',
+		content:
+			<div>
+				<h2>Lesson 4</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: 59 minutes</li>
+					<li>Minutes gotten through: 23 (finished) </li>
+					<li>Topics covered (not comprehensive): Categories of Shirk and Prohibitions</li>
+				</ul>
+
+				<h3>Categories of Shirk</h3>
+				<p>
+					The three categories of Shirk are major, minor, and hidden, which is often included in either major or minor. Major shirk 
+					leads you to the fire if repentance is not sought, while minor shirk is lesser than that and decreases Imaan without 
+					taking you out of the fold of Islam. Hidden shirk exists in both, like when someone shows off in prayer being minor shirk,
+					but a hypocrite who shows off and hides disbelief out of fear for themselves.
+				</p>
+				<p>
+					Shirk can also be categorized within ar-Ruboobiyyah, al-Uluhiyyah, and Asmaa' wa Sifat.
+				</p>
+				<h3>Categories of Prohibitions</h3>
+				Prohibitions can be organized into 4 types in order of descending severity:
+				<ul>
+					<li>Major Shirk</li>
+					<li>Minor Shirk</li>
+					<li>Major Sins: known through punishments associated with them, like Allah cursing someone for it, the prophet ﷺ saying he is free
+						from someone who does it, etc.
+					</li>
+					<li>Minor Sins</li>
+				</ul>
+				<h3>Other Notes</h3>
+				<p>
+					Some of the ulema have said that you are not forgiven for minor shirk after death as well, while some have said that only
+					applies for major shirk. With that in mind we should strive to be far away from both.
+				</p>
+				<p>
+					I have also been trying to figure out how to take notes better and watch the lessons, since I am still having bad ratio between
+					video length and time spent. Seems like I am copying too much, but everything mentioned in each video feels important not to lose.
+				</p>
+			</div>
+		,
+    	date: 'July 17, 2026',
 	}
 
 
