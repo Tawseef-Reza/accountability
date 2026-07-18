@@ -352,6 +352,51 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 17, 2026',
+	},
+	{
+		id: 11,
+		title: 'Lesson 5 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'First half',
+		content:
+			<div>
+				<h2>Lesson 5</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: 48 minutes</li>
+					<li>Minutes gotten through: 27</li>
+					<li>Topics covered (not comprehensive): Major vs Minor Shirk, Ihsaan, Conditions of Prayer</li>
+				</ul>
+
+				<h3>Review of Major vs Minor Shirk</h3>
+				<p>
+					To differentiate between the two, while major shirk is doing/dedicating an act of worship for other than Allah, minor shirk is
+					something that leads to that and/or taking means that is not in Islam or universal. An example is wearing an amulet while believing
+					that Allah will protect you from things like evil eye. This is minor shirk because it is not established in the deen to do this to 
+					protect against evil eye, and it also leads to major shirk since one will start to believe the amulet itself is protecting him by 
+					having hidden control of the universe.
+				</p>
+				<h3>Ihsaan</h3>
+				<p>
+					Ihsaan means to worship Allah as if you see Him, and has two levels: the worship of mushaahadah and muraaqabah, the first mainly 
+					involving love and the second involving fear.
+				</p>
+				<h3>Conditions of Prayer</h3>
+				There are 9 conditions of prayer that need to be fulfilled before and until the prayer is finished:
+				<ol>
+					<li>Islam</li>
+					<li>'Aql</li>
+					<li>Tamyeez (around 7 years old)</li>
+					<li>Raf ul Hadath (major and minor)</li>
+					<li>Removing najaasah</li>
+					<li>Covering Awrah</li>
+					<li>Entering of Waqt</li>
+					<li>Facing the Ka'bah</li>
+					<li>Niyyah</li>
+				</ol>
+				<p>The first three were covered so far.</p>
+			</div>
+		,
+    	date: 'July 18, 2026',
 	}
 
 

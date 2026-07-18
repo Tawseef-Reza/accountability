@@ -20,6 +20,17 @@ const arabicPosts = [
         flashcards and complete the exercises.
       </div>,
     date: 'July 17, 2026',
+  },
+  {
+    id: 3,
+    title: 'Arabic Vocab and Exercises',
+    description: 'Flashcard set built, Anki set up, Worked on exercises',
+    content:
+      <div>
+        After finishing the flashcards finally I uploaded them to Anki. I did 20 cards from there since thats the daily limit and it helped a lot already 
+        with some beginner words. After that I did exercises in chapter 1 of madinah book up to page 9.
+      </div>,
+    date: 'July 18, 2026',
   }
 
 ]
