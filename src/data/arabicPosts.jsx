@@ -31,6 +31,17 @@ const arabicPosts = [
         with some beginner words. After that I did exercises in chapter 1 of madinah book up to page 9.
       </div>,
     date: 'July 18, 2026',
+  },
+  {
+    id: 4,
+    title: 'Arabic Vocab',
+    description: 'Learning new flashcards and review',
+    content:
+      <div>
+        Today I studied the flashcards for around 30 minutes, I learnt some new ones and I was trying to figure out how the review option works. 
+        Managed to review some as well but need to understand that part of the app more.
+      </div>,
+    date: 'July 19, 2026',
   }
 
 ]

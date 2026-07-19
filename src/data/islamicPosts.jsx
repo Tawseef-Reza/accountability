@@ -231,7 +231,7 @@ const islamicPosts = [
 				<h2>Lesson 3</h2>
 				<u>Quick List</u>
 				<ul>
-					<li>Minutes Spent: 1 hour 22 minutes</li>
+					<li>Minutes Spent: 82</li>
 					<li>Minutes gotten through: 33 (finished) </li>
 					<li>Topics covered (not comprehensive): Rest of Pillars of Imaan</li>
 				</ul>
@@ -281,7 +281,7 @@ const islamicPosts = [
 				<h2>Lesson 4</h2>
 				<u>Quick List</u>
 				<ul>
-					<li>Minutes Spent: 59 minutes</li>
+					<li>Minutes Spent: 59</li>
 					<li>Minutes gotten through: 26 </li>
 					<li>Topics covered (not comprehensive): Categories of Tawhid, and some of Major Shirk</li>
 				</ul>
@@ -315,7 +315,7 @@ const islamicPosts = [
 				<h2>Lesson 4</h2>
 				<u>Quick List</u>
 				<ul>
-					<li>Minutes Spent: 59 minutes</li>
+					<li>Minutes Spent: 59</li>
 					<li>Minutes gotten through: 23 (finished) </li>
 					<li>Topics covered (not comprehensive): Categories of Shirk and Prohibitions</li>
 				</ul>
@@ -362,7 +362,7 @@ const islamicPosts = [
 				<h2>Lesson 5</h2>
 				<u>Quick List</u>
 				<ul>
-					<li>Minutes Spent: 48 minutes</li>
+					<li>Minutes Spent: 48</li>
 					<li>Minutes gotten through: 27</li>
 					<li>Topics covered (not comprehensive): Major vs Minor Shirk, Ihsaan, Conditions of Prayer</li>
 				</ul>
@@ -397,6 +397,44 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 18, 2026',
+	},
+	{
+		id: 12,
+		title: 'Lesson 5 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Second half',
+		content:
+			<div>
+				<h2>Lesson 5</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: 67</li>
+					<li>Minutes gotten through: 26</li>
+					<li>Topics covered (not comprehensive): Conditions of Prayer</li>
+				</ul>
+
+				<h3>Conditions of Prayer</h3>
+				<p>After going in depth on mainly the first 4 conditions yesterday, today I went in detail on the rest.</p>
+				<h4>Removing Impurities</h4>
+				<p>
+					With impurities there are three methods, sprinkling, washing, and washing and rubbing/massaging the area. These apply to different
+					impurities, like madhiy being sufficed from sprinkling water. There are also some exclusive cases for certain substances.
+				</p>
+				<p>Other impurities were also covered, like the blood flowing from a slaughter, dead animals killed without a slaughter, etc.</p>
+				<h4>Covering Awrah</h4>
+				<p>Awrah also has different levels within the prayer based on gender.</p>
+				<h4>Other</h4>
+				<p>
+					The other conditions included the time of prayer, facing the Qiblah (which also has its exceptions), and niyyah (where verbalizing
+					it is a bid'ah).
+				</p>
+				<p>The conditions need to be there before the prayer and until it finishes, and cannot be left out knowingly or unknowingly.</p>
+				<p>The exception to this is impurity where if someone realizes later on their prayer is valid.</p>
+				<p>The prophet ﷺ was informed by Jibreel alayhissalaam that his slippers had impurity and so he took them off during the prayer and 
+					continued praying, instead of restarting the prayer.
+				</p>
+			</div>
+		,
+    	date: 'July 19, 2026',
 	}
 
 
