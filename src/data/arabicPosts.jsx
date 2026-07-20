@@ -38,8 +38,12 @@ const arabicPosts = [
     description: 'Learning new flashcards and review',
     content:
       <div>
-        Today I studied the flashcards for around 30 minutes, I learnt some new ones and I was trying to figure out how the review option works. 
-        Managed to review some as well but need to understand that part of the app more.
+        <p>Today I studied the flashcards for around 30 minutes, I learnt some new ones and I was trying to figure out how the review option works. 
+        Managed to review some as well but need to understand that part of the app more.</p>
+        <p>
+          I also managed to do some more arabic exercises finishing till the end of the third lesson, however I am choosing to do the exercises only
+          as needed since some stuff is very easy and clear.
+        </p>
       </div>,
     date: 'July 19, 2026',
   }
