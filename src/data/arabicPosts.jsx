@@ -46,8 +46,35 @@ const arabicPosts = [
         </p>
       </div>,
     date: 'July 19, 2026',
+  },
+  {
+    id: 5,
+    title: 'Arabic Vocab and Exercises',
+    description: 'Flashcards and exercises',
+    content:
+      <div>
+        <p>Today I studied for 30 minutes, including the flashcards for around 18 minutes which involved new cards and review ones.</p>
+        <p>
+          I did some more exercises but I did not make it that far in the rest of the time.
+        </p>
+      </div>,
+    date: 'July 20, 2026',
+  },
+  {
+    id: 6,
+    title: 'Arabic Vocab and Exercises',
+    description: 'Flashcards and exercises',
+    content:
+      <div>
+        <u>List</u>
+				<ul>
+					<li>Minutes Spent: around 45</li>
+					<li>Flashcards: ✅</li>
+					<li>Madinah Book Progress: up to beginning of lesson 5</li>
+				</ul>
+      </div>,
+    date: 'July 21, 2026',
   }
-
 ]
 
 export default arabicPosts

@@ -435,6 +435,37 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 19, 2026',
+	},
+	{
+		id: 13,
+		title: 'Lesson 6 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'First half',
+		content:
+			<div>
+				<h2>Lesson 6</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: around 60</li>
+					<li>Minutes gotten through: 30</li>
+					<li>Topics covered (not comprehensive): Conditions of Prayer, First Pillar of Prayer </li>
+				</ul>
+
+				<h3>Conditions of Prayer</h3>
+				<p> 
+					This was a bit of review of the lesson 6 (of the book) and some new concepts. Some benefits included:
+				</p>
+				<ul>
+					<li>While a condition is before the action and until the action ends, a pillar is within the action itself.</li>
+					<li>For normal awrah, it is excused if a little shows for a long time or if a lot shows for a short time in the prayer.</li>
+					<li>For extreme awrah, it is excused only if a little is shown for a short time.</li>
+				</ul>
+				<h3>First Pillar of Prayer: Standing if Able</h3>
+				<p>
+					One must stand as much as you can in the prayer with excuses given for one who cannot focus or one who is not able. 
+				</p>
+			</div>
+		,
+    	date: 'July 20, 2026',
 	}
 
 
