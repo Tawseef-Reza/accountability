@@ -70,7 +70,7 @@ const arabicPosts = [
 				<ul>
 					<li>Minutes Spent: around 45</li>
 					<li>Flashcards: ✅</li>
-					<li>Madinah Book Progress: up to beginning of lesson 5</li>
+					<li>Madinah Book Progress: up to the beginning of lesson 5</li>
 				</ul>
       </div>,
     date: 'July 21, 2026',

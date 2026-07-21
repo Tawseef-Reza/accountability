@@ -466,6 +466,45 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 20, 2026',
+	},
+	{
+		id: 14,
+		title: 'Lesson 6 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Second half',
+		content:
+			<div>
+				<h2>Lesson 6</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: around 60</li>
+					<li>Minutes gotten through: 30</li>
+					<li>Topics covered (not comprehensive): 2nd, 3rd, and 4th Pillar of Prayer </li>
+				</ul>
+
+				<h3>2nd Pillar of Prayer: First Takbeer</h3>
+				<p> 
+					Saying Allahu Akbar, which means Allah is greater than all (since it is not specificed what Allah is greater than, so the
+					rule is that it refers to everything).
+				</p>
+				<h3>3rd and 4th Pillar of Prayer</h3>
+				<p>The 3rd pillar of prayer is reciting al-Fatihah and is fairly simple.</p>
+				<p>
+					The 4th pillar is to have tranquility in all positions, meaning that you recite each statement at least once and your bones
+					move to each place for the position you are going into. This comes from the hadith about the one who did not pray correctly and washing
+					told to pray again. 
+				</p>
+				<h3>Miscellaneous</h3>
+				<p>
+					Of course, pillars are required and cannot be excluded no matter what. If one ends a prayer without one of the pillars then he has
+					to repeat that prayer. However, he does not have to repeat all previous prayers before that as per the same hadith we just talked about.
+				</p>
+				<p>
+					For the rest of the lesson the ustadh went on to talk about the ahadith and the importance of believing it is preserved, and all the 
+					points against the people of bid'ah who claim to follow Islam without holding onto the Quran and sunnah upon the understanding of the salaf as-salih.
+				</p>
+			</div>
+		,
+    	date: 'July 21, 2026',
 	}
 
 
