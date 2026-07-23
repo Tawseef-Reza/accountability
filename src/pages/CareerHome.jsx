@@ -22,7 +22,7 @@ function CareerHome() {
         </header>
       <div className="content">
         <div className="posts-grid">
-          {careerPosts.map((post) => (
+          {careerPosts.toReversed().map((post) => (
             <BlogCard
                 key={post.id}
                 post={post}

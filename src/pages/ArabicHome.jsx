@@ -24,7 +24,7 @@ function ArabicHome() {
 
         <main className="content">
             <div className="posts-grid">
-            {arabicPosts.map((post) => (
+            {arabicPosts.toReversed().map((post) => (
             <BlogCard
                 key={post.id}
                 post={post}

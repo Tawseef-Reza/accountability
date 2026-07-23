@@ -280,6 +280,30 @@ const careerPosts = [
 			</div>
 		,
 		date: 'July 14, 2026',
+	},
+	{
+		id: 16,
+		title: 'Comptia A+',
+		description: 'Worked on 1.1, More Study Planning',
+		content:
+			<div>
+				<h2>Comptia A+ Studying</h2>
+				<p>
+					Today I studied 1.1 in the comptia A+ 1201 objectives for maybe an hour. I watched the video from Professor Messer and also did some practice questions.	
+				</p>
+				<p>
+					However I do feel that the Professor Messer content alone is not enough because he did not go into a lot of detail that I think is 
+					needed, so I am planning to buy a study book or a course to supplement the learning. I have not fully decided yet.
+				</p>
+				<p>
+					Besides the actual content of the exam that I have to obtain I still do have a roadmap set up for finishing the studying in 2.5 months, 
+					doing maybe an hour or two a day of studying 5 days a week. Thats why I focused on 1.1 today because that was the first session on my
+					roadmap.
+				</p>
+				
+			</div>
+		,
+		date: 'July 23, 2026',
 	}
 
 	

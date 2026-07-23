@@ -505,6 +505,109 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 21, 2026',
+	},
+	{
+		id: 15,
+		title: 'Lesson 7 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'First half',
+		content:
+			<div>
+				<h2>Lesson 7</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: at least 63</li>
+					<li>Minutes gotten through: 27</li>
+					<li>Topics covered (not comprehensive): Pillars of Prayer, Obligations of Prayer</li>
+				</ul>
+
+				<h3>Pillars of Prayer</h3>
+				<p> 
+					The ustadh mentioned some more benefits relating to the previous chapter of the book. This included:
+				</p>
+				<ul>
+					<li>When joining the imam in ruku3, you need to do two takbeers so that you fulfill both takbeeratul ihram and takbeeratul intiqaal.</li>
+					<li>In sujood, all 7 body parts should be on the ground, but if you lift a body part for a short time your salah is still valid 
+						(ex: lifting your foot to scratch your other foot quickly then putting it down)
+					</li>
+				</ul>
+				<h3>Obligations of Prayer</h3>
+				These are 8:
+				<ol>
+					<li>Takbeeratul Intiqaal (takbeer of moving)</li>
+					<li>Saying سَمِعَ اللهُ لِمَنْ حَمِدَهُ after standing for Imam and person praying alone.</li>
+					<li>Saying رَبَّنَا ولكَ الحَمد</li>
+					<li>Saying سُبحانَ رَبِّيَ العَظيم</li>
+					<li>Saying سُبحَانَ رَبِِّيَ الأعْلَى</li>
+					<li>The first tashahud</li>
+					<li>The sitting of the first tashahud</li>
+				</ol>
+				<h3>The Final Tashahud</h3>
+				<p>
+					After sending salawaat upon the prophet ﷺ there is a du'aa where you seek refuge in Allah from the torment of hell, the torment of the grave,
+					the trials of life and death and from the fitnah of ad-Dajjal. Some ulema see this as part of the final tashahud and necessary to say, 
+					while some do not.
+				</p>
+				<p>
+					After this du'aa other du'aa were mentioned to be encouraged to say, including the one the prophet ﷺ taught Muadh and the one he ﷺ taught 
+					Abu Bakr. The du'aa he taught Abu Bakr was about asking for forgiveness after transgressing against oneself. If he told Abu Bakr, someone 
+					who was told he would be in Jannah, to say this in every prayer, then what about us? 	
+				</p>
+			</div>
+		,
+    	date: 'July 22, 2026',
+	},
+	{
+		id: 16,
+		title: 'Lesson 7 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Second half',
+		content:
+			<div>
+				<h2>Lesson 7</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: around 50</li>
+					<li>Minutes gotten through: 21 (finished)</li>
+					<li>Topics covered (not comprehensive): Sunnahs of Prayer, Nullfiers of Prayer</li>
+				</ul>
+
+				<h3>Sunnahs of Prayer</h3>
+				<p> 
+					From one of the sunnahs is the opening supplication, the best one being the well known du'aa that starts with subhaana kalla humma. 
+					The sunnah is also to use different du'aa for the opening supplication.
+
+					Many other sunnahs of the prayer were mentioned.
+				</p>
+				<h3>Nullifiers of Prayer</h3>
+				These are 8:
+				<ol>
+					<li>Intentional speaking while remembering and knowing (exception for helping/correcting the Imam)</li>
+					<li>Laughing</li>
+					<li>Eating</li>
+					<li>Drinking</li>
+					<li>Exposing the private parts</li>
+					<li>Deviating a lot from the direction of the Qiblah</li>
+					<li>Breaking Wudu</li>
+				</ol>
+				<p>
+					The ustadh mentioned that there is no evidence for three movements invalidating the prayer automatically. Rather it is based
+					on continuous pointless movements such that one outside of the prayer seeing you would not think you are in salah. 
+				</p>
+				<p>
+					Movement in the prayer is also broken down into 5 categories: 
+					prohibited, disliked (ex: turning head), 
+					permissible (ex: scratching with a need), recommended (ex: closing gaps), 
+					obligatory (ex: removing impurity)</p>
+				<h3>Miscellaneous</h3>
+				<p>
+					Ignorance for a condition or a pillar of prayer does not make the prayer correct. Ignorance for an obligation does.
+				</p>
+				<p>
+					There was also a section on sujood as-sahw, but as it's a complex topic with different cases and rules I am not going get into it 
+					here.	
+				</p>
+			</div>
+		,
+    	date: 'July 23, 2026',
 	}
 
 

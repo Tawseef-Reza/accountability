@@ -22,7 +22,7 @@ function IslamicHome() {
         </header>
       <div className="content">
         <div className="posts-grid">
-          {islamicPosts.map((post) => (
+          {islamicPosts.toReversed().map((post) => (
             <BlogCard
                 key={post.id}
                 post={post}
