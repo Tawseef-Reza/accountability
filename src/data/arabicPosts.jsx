@@ -91,7 +91,7 @@ const arabicPosts = [
     date: 'July 22, 2026',
   },
   {
-    id: 7,
+    id: 8,
     title: 'Arabic Vocab and Exercises',
     description: 'Flashcards and exercises',
     content:
@@ -106,7 +106,7 @@ const arabicPosts = [
     date: 'July 23, 2026',
   },
   {
-    id: 8,
+    id: 9,
     title: 'Arabic Vocab and Exercises',
     description: 'Flashcards and exercises',
     content:
@@ -121,7 +121,7 @@ const arabicPosts = [
     date: 'July 24, 2026',
   },
   {
-    id: 9,
+    id: 10,
     title: 'Arabic Vocab and Exercises',
     description: 'Flashcards and exercises',
     content:
@@ -131,6 +131,21 @@ const arabicPosts = [
 					<li>Minutes Spent: at least 30</li>
 					<li>Flashcards: ✅</li>
 					<li>Madinah Book Progress: up to the beginning of lesson 9</li>
+				</ul>
+      </div>,
+    date: 'July 25, 2026',
+  },
+  {
+    id: 11,
+    title: 'Arabic Exercises',
+    description: 'Lesson 9',
+    content:
+      <div>
+        <u>List</u>
+				<ul>
+					<li>Minutes Spent: around 40</li>
+					<li>Flashcards: ❌</li>
+					<li>Madinah Book Progress: up to the beginning of lesson 10</li>
 				</ul>
       </div>,
     date: 'July 25, 2026',
