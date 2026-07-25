@@ -608,6 +608,90 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 23, 2026',
+	},
+	{
+		id: 17,
+		title: 'Lesson 8 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'First half',
+		content:
+			<div>
+				<h2>Lesson 8</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: at least 60</li>
+					<li>Minutes gotten through: 31</li>
+					<li>Topics covered (not comprehensive): Description of Prayer</li>
+				</ul>
+
+				<h3>Description of Prayer</h3>
+				<p> 
+					This half of the video was focused on the description of the prayer step by step. Some of the benefits I noted were:
+				</p>
+				<ul>
+					<li>Coming with the best clothes</li>
+					<li>Praying the sunnah prayer before the salah if there is time, and if there is no sunnah prayer praying two rak'ah before
+						sitting
+					</li>
+					<li>Standing with feet pointing straight and matching shoulder distance</li>
+					<li>Only closing the gap with the person on your right if you are on the left of the imam and vice versa</li>
+					<li>Looking at the place of prostration or the imam</li>
+					<li>Keeping your stomach away from your thighs, your thighs away from your calves, and 
+						your forearms away from the ground in sujood
+					</li>
+					<li>Sitting on the ground with the left foot under the right leg for the 3rd or 4th rak'ah depending on the salah</li>
+					<li>Saying salatul ibrahimiyyah after the first tashahud</li>
+					<li>Saying "subhaanallah walhamdulillah wallahu akbar" at a time for 33 times (rather than repeating each of the three consecutively
+						before moving onto the next), and ending with the du'aa to complete 100
+					</li>
+					<li>Reciting ayatul kursi, surah al-ikhlaas, surah al-falaq, and surah an-naas</li>
+				</ul>
+			</div>
+		,
+    	date: 'July 24, 2026',
+	},
+	{
+		id: 18,
+		title: 'Lesson 8 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Second half',
+		content:
+			<div>
+				<h2>Lesson 8</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: at least 30</li>
+					<li>Minutes gotten through: 28</li>
+					<li>Topics covered (not comprehensive): Different Prayers, Ablution</li>
+				</ul>
+
+				<h3>Different Prayers</h3>
+				<p> 
+					The book mentioned different prayers, this including special obligatory prayers and recommended prayers. Some things I learnt included
+					Salatul Istisqaa' to ask for rain when necessary (which is prayed like salatul Eid), saying the du'aa of istikhaarah before the salaam
+					of the prayer, and salatul duhaa being prayed sometimes according to Shaykh Abdussalaam ash-Shuwaiyr.
+				</p>
+				<h3>Prohibited Prayer Times</h3>
+				Note: these are for prayers without a specific purpose
+				<ol>
+					<li>Dawn till sun has risen to height of standing spear</li>
+					<li>The sun being directly overhead until it passes the zenith</li>
+					<li>From Asr prayer till the sun has set completely</li>
+				</ol>
+				<h3>Ablution</h3>
+				<p>In this section I learnt about the conditions of ablution. Some notable ones to me were having continous intention until the end
+					of the wudhu, and using clean and permissible water. 
+				</p>
+				<h3>Sunan al-Fitrah</h3>
+				<p>This includes</p>
+				<ol>
+					<li>Circumcision</li>
+					<li>Trimming mustache, clipping nails, plucking armpit hair, and shaving around private parts (including the 
+					back) without passing 40 nights</li>
+					<li>Growing the beard</li>
+					<li>Using the siwaak, even during wudu before rinsing your mouth</li>	
+				</ol>
+			</div>
+		,
+    	date: 'July 25, 2026',
 	}
 
 
