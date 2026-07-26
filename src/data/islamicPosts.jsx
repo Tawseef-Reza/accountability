@@ -692,6 +692,48 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 25, 2026',
+	},
+	{
+		id: 19,
+		title: 'Lesson 9 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Entire lesson finished',
+		content:
+			<div>
+				<h2>Lesson 9</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: at least 30</li>
+					<li>Minutes gotten through: 34</li>
+					<li>Topics covered (not comprehensive): Obligations of Ablution, Nullifiers of Ablution</li>
+				</ul>
+
+				<h3>Obligations of Ablution</h3>
+				<p>
+					This part involved the obligatory acts and was basically a review. The ustadh also reminded us that changing the intention in the middle
+					of the wudhu nullifies it.
+				</p>
+				<h3>Nullifiers of Ablution</h3>
+				This involves 6:
+				<ol>
+					<li>What exits from the two private parts</li>
+					<li>Exiting of impure substances from other parts of body, though Shaykh Haytham said that large impure substances coming from 
+						the body do not invalidate unless they are similar to number 1 and number 2 when using the bathroom.
+					</li>
+					<li>Unconciousness from sleep and other than it
+						<ul>
+							<li>This also involves intoxicants since your brain has left you, your 3aql has been covered.</li>
+							<li>Shaykh Haytham mentions if you were certain that gas did not exit as you were asleep, you would still have wudhu
+								(though this is very hard to know). </li>
+						</ul>
+					</li>
+					<li>Touching the private parts (front or back), though Ibn Taymiyyah says its recommended and not mandatory to make wudhu.</li>
+					<li>Eating camel's meat</li>
+					<li>Leaving Islam</li>
+				</ol>
+				<p>Simply touching women is also not a nullifier, whether it is with or without desire.</p>
+			</div>
+		,
+    	date: 'July 26, 2026',
 	}
 
 
