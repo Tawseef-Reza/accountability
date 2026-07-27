@@ -738,7 +738,7 @@ const islamicPosts = [
 	{
 		id: 19,
 		title: 'Lesson 10 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
-		description: 'First third',
+		description: 'First third of the lesson',
 		content:
 			<div>
 				<h2>Lesson 10</h2>
