@@ -164,6 +164,21 @@ const arabicPosts = [
 				</ul>
       </div>,
     date: 'July 26, 2026',
+  },
+  {
+    id: 13,
+    title: 'Arabic Vocab and Madinah Book',
+    description: 'Flashcards, Lesson 10 and 11',
+    content:
+      <div>
+        <u>List</u>
+				<ul>
+					<li>Minutes Spent: around 37</li>
+					<li>Flashcards: ✅</li>
+					<li>Madinah Book Progress: up to end of first paragraph on lesson 11</li>
+				</ul>
+      </div>,
+    date: 'July 27, 2026',
   }
 ]
 

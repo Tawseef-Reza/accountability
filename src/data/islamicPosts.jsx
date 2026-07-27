@@ -736,7 +736,7 @@ const islamicPosts = [
     	date: 'July 26, 2026',
 	},
 	{
-		id: 19,
+		id: 20,
 		title: 'Lesson 10 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
 		description: 'First third of the lesson',
 		content:
