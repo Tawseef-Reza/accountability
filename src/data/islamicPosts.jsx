@@ -734,6 +734,53 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 26, 2026',
+	},
+	{
+		id: 19,
+		title: 'Lesson 10 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'First third',
+		content:
+			<div>
+				<h2>Lesson 10</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: at least 30</li>
+					<li>Minutes gotten through: 34</li>
+					<li>Topics covered (not comprehensive): Multiple Topics Related to Purity, Intro to Zakaat</li>
+				</ul>
+
+				<h3>Ablution</h3>
+				<p>
+					The book went over ablution and dry ablution as well, where is sand is used.
+				</p>
+				<h3>The Ghusl</h3>
+				<p>
+					This part went over ghusl, including the minimum, what is recommended, and when it becomes mandatory.
+				</p>
+				<h3>Wiping over Shoes/Socks</h3>
+				<p>
+					Clean socks/shoes are worn upon having made wudhu so that you can wipe over them later for uplifting minor impurity again. The time 
+					starts from the first wipe and lasts 24 hours for a resident and 72 for a traveler. These socks can have holes in them.
+				</p>
+				<p>
+					The wiping is done passing the right hand over the right foot and the left hand over the left foot simultaneously from the toes to 
+					the shin. 
+				</p>
+				<h3>Conditions of Istijmaar</h3>
+				<p>
+					This part went over what is required when doing istijmaar. This includes wiping at least three times, and doing it until the object
+					you use stays dry after wiping, which means no more impurity is left. 
+				</p>
+				<h3>Zakaat</h3>
+				<p>
+					This part covered both zakaat of wealth and zakaat of fitr. For zakaat of wealth their 4 types of wealth that increases and decreases, which
+					one chooses a day in the year to pay it. For other wealth it reaches the nisaab and sits for a year after that, which is when you need to pay it.
+					Note that the hijri calendar is used.
+				</p>
+				<p>Zakaat of wealth is obligatory on all free Muslims that reach the nisaab, while zakaat of fitr is upon all Muslims.</p>
+			</div>
+		,
+    	date: 'July 27, 2026',
 	}
 
 
