@@ -781,6 +781,36 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 27, 2026',
+	},
+	{
+		id: 21,
+		title: 'Lesson 10 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Middle of the lesson',
+		content:
+			<div>
+				<h2>Lesson 10</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: at least 30</li>
+					<li>Minutes gotten through: 29</li>
+					<li>Topics covered (not comprehensive): Who Receives Zakaat, Specific Amounts</li>
+				</ul>
+
+				<h3>Who Receives Zakaat</h3>
+				<p>
+					This part went over who receives zakaat including the poor, the needy, those in debt and those not to receive zakaat including
+					the family of the prophet ﷺ. There were a lot of details also mentioned and not mentioned, which comes to show how complex zakaat is.
+				</p>
+				<h3>Specific Amounts of Zakaat</h3>
+				<p>
+					This part went over how different wealth is treated for zakaat, as it is not just a simple 2.5%. There was a table for the 4 types of zakaat 
+					including currencies, merchandise, freely grazing animals, and what grows from the earth, each with specific conditions and amounts of zakaat 
+					to be paid.
+				</p>
+				<p>Zakaat is probably one of the harder subjects to learn about for me.</p>
+			</div>
+		,
+    	date: 'July 28, 2026',
 	}
 
 
