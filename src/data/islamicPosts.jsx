@@ -811,6 +811,36 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 28, 2026',
+	},
+	{
+		id: 22,
+		title: 'Lesson 10 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Near the end',
+		content:
+			<div>
+				<h2>Lesson 10</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: around 56</li>
+					<li>Minutes gotten through: 21</li>
+					<li>Topics covered (not comprehensive): Fasting</li>
+				</ul>
+
+				<h3>Fasting</h3>
+				<p>This section was dense, including topics like the pillars, matters regarding intention, conditions for obligation, excuses
+					for not doing it, nullifers, and so on. Here were some notable things I learnt:
+				</p>
+				<ul>
+					<li>It may sometimes better to fast for the traveler--if it is not difficult--for other reasons mentioned in the book.</li>
+					<li>Tasting the food without swallowing does not break the fast and is fine if there is a need.</li>
+					<li>You should say "I am fasting" to the one who insults you.</li>
+					<li>Fasting in Rajab alone is haram.</li>
+					<li>The best of fasting is the fast of dawood alayhissalaam which is to fast every other day.</li>
+					<li>It is disliked to fast only Friday or only Saturday or only Sunday.</li>
+				</ul>
+			</div>
+		,
+    	date: 'July 29, 2026',
 	}
 
 
