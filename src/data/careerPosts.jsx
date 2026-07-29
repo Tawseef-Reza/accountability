@@ -304,15 +304,35 @@ const careerPosts = [
 			</div>
 		,
 		date: 'July 23, 2026',
+	},
+	{
+		id: 17,
+		title: 'Comptia A+',
+		description: 'Worked on 1.2, Introduced Myself to the Book and the online resources',
+		content:
+			<div>
+				<h2>Comptia A+ Studying: 1.2 and the New Book</h2>
+				<p>
+					Today I studied 1.2 in the comptia A+ 1201 objectives for maybe 30 minutes. I watched the video from Professor Messer and took notes, learning about
+					connections and accessories
+				</p>
+				<p>
+					I also skimmed the intro of the new book I got, and I signed up for the online resources that came with the book. I started doing the first 
+					assessment test to determine your knowledge then stopped in the middle.
+				</p>
+				<p>
+					The book shows which chapters align with which objectives for the test which is useful, chapter 4 seems to be relevant first since it covers 1.1 and 1.2 from 
+					the exam objectives.
+				</p>
+				<p>
+					I also might just not follow a strict schedule and instead do 1 hour of studying a day without a goal, but this has its consequences too.
+					Right now the main thing is to build consistency so I can keep progressing and I feel like an objective or half an objective a day might be 
+					daunting.
+				</p>
+			</div>
+		,
+		date: 'July 29, 2026',
 	}
-
-	
-	
-	
-
-	
-	
-	
 	
 ]
 
