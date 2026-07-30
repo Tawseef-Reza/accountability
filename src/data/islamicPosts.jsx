@@ -841,6 +841,29 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 29, 2026',
+	},
+	{
+		id: 23,
+		title: 'Lesson 10 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Finished Lesson 10 with the Hajj section',
+		content:
+			<div>
+				<h2>Lesson 10</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: at least 60</li>
+					<li>Minutes gotten through: 18</li>
+					<li>Topics covered (not comprehensive): Hajj</li>
+				</ul>
+
+				<h3>Hajj</h3>
+				<p>This section was also dense: Hajj is a very detailed act of worship with specific things to do each step of the way and things to 
+					be wary of as well. Topics included the pillars of Hajj, its obligations (which require animal sacrifice for missing them), the types of Hajj,
+					the boundaries for the Miqaat where you enter into ihram, recommended actions, prohibitions during ihram which also involve expiations, and more.
+				</p>
+			</div>
+		,
+    	date: 'July 30, 2026',
 	}
 
 
