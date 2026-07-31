@@ -864,6 +864,39 @@ const islamicPosts = [
 			</div>
 		,
     	date: 'July 30, 2026',
+	},
+	{
+		id: 24,
+		title: 'Lesson 11 Ustadh Abdul-Aziz Al-Haqqan | Durus al-Muhimmah',
+		description: 'Around 1/3',
+		content:
+			<div>
+				<h2>Lesson 11</h2>
+				<u>Quick List</u>
+				<ul>
+					<li>Minutes Spent: 40</li>
+					<li>Minutes gotten through: almost 28</li>
+					<li>Topics covered (not comprehensive): Islamic Qualities and Teachings</li>
+				</ul>
+
+				<h3>Islamic Qualities and Teachings</h3>
+				<p>
+					This part of the lesson was more of the ustadh speaking on today's age and how the things Islam says would actually
+					benefit society if people were to follow it correctly. Important points he made included
+				</p>
+				<ul>
+					<li>learning before saying and doing</li>
+					<li>looking at the Quran and sunnah to extract beliefs and understanding of Islam and so on, rather than picking a position and 
+					then selecting ahadith or aayaat to twist in your favor</li>
+					<li>
+						following the ahadith about Islamic manners, like not getting involved in other people's affairs, helping other brothers,
+						and speaking good or remaining silent
+					</li>
+				</ul>
+				<p>Islamic qualities mentioned in the book included things like truthfulness, courage, loyalty, honesty, etc.</p>
+			</div>
+		,
+    	date: 'July 31, 2026',
 	}
 
 
