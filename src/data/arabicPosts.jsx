@@ -223,6 +223,22 @@ const arabicPosts = [
 				</ul>
       </div>,
     date: 'July 30, 2026',
+  },
+  {
+    id: 17,
+    title: 'Arabic Vocab and Madinah Book',
+    description: 'Flashcard import and lesson 13',
+    content:
+      <div>
+        <u>List</u>
+				<ul>
+					<li>Minutes Spent: 31</li>
+					<li>Today I imported the flashcards finally into anki. I also worked on madinah book lesson 13 part A until the third exercise. I also want
+            to learn when to use each way of writing the hamzah based on the word or the letters around it.
+          </li>
+				</ul>
+      </div>,
+    date: 'July 31, 2026',
   }
 ]
 
